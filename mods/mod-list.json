@@ -1,0 +1,326 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "AdvancedArtilleryRemotesContinued",
+      "enabled": true
+    },
+    
+    {
+      "name": "AdvancedBelts",
+      "enabled": true
+    },
+    
+    {
+      "name": "AdvancedNuclear3",
+      "enabled": true
+    },
+    
+    {
+      "name": "Armored-train_plus",
+      "enabled": true
+    },
+    
+    {
+      "name": "autobuild",
+      "enabled": true
+    },
+    
+    {
+      "name": "belt-balancer-performance",
+      "enabled": true
+    },
+    
+    {
+      "name": "BigPumpjack",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobgreenhouse",
+      "enabled": true
+    },
+    
+    {
+      "name": "boblibrary",
+      "enabled": true
+    },
+    
+    {
+      "name": "boblogistics",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobmining",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobpower",
+      "enabled": true
+    },
+    
+    {
+      "name": "bullet-trails",
+      "enabled": true
+    },
+    
+    {
+      "name": "bzcarbon",
+      "enabled": true
+    },
+    
+    {
+      "name": "compaktcircuit",
+      "enabled": true
+    },
+    
+    {
+      "name": "dark-nights",
+      "enabled": true
+    },
+    
+    {
+      "name": "DragonIndustries",
+      "enabled": true
+    },
+    
+    {
+      "name": "EnableResearchQueue",
+      "enabled": true
+    },
+    
+    {
+      "name": "equipment-gantry",
+      "enabled": true
+    },
+    
+    {
+      "name": "even-distribution",
+      "enabled": true
+    },
+    
+    {
+      "name": "Factorissimo2",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "Geothermal",
+      "enabled": true
+    },
+    
+    {
+      "name": "god-module-Revived",
+      "enabled": true
+    },
+    
+    {
+      "name": "GodLikeArmor",
+      "enabled": true
+    },
+    
+    {
+      "name": "grappling-gun",
+      "enabled": true
+    },
+    
+    {
+      "name": "HighCapacityTurbine",
+      "enabled": true
+    },
+    
+    {
+      "name": "InfiniteFuel",
+      "enabled": true
+    },
+    
+    {
+      "name": "InfiniteOresAndOil",
+      "enabled": true
+    },
+    
+    {
+      "name": "Infinite_Buffer_Chest",
+      "enabled": true
+    },
+    
+    {
+      "name": "informatron",
+      "enabled": true
+    },
+    
+    {
+      "name": "InstantRobotCharging",
+      "enabled": true
+    },
+    
+    {
+      "name": "jetpack",
+      "enabled": true
+    },
+    
+    {
+      "name": "laserfence",
+      "enabled": true
+    },
+    
+    {
+      "name": "LaserWeapons",
+      "enabled": true
+    },
+    
+    {
+      "name": "LoaderRedux",
+      "enabled": true
+    },
+    
+    {
+      "name": "LoaderRedux-BobLogistics",
+      "enabled": true
+    },
+    
+    {
+      "name": "long-reach-clone",
+      "enabled": true
+    },
+    
+    {
+      "name": "Milestones",
+      "enabled": true
+    },
+    
+    {
+      "name": "ModuleInserter",
+      "enabled": true
+    },
+    
+    {
+      "name": "NoAutoTarget",
+      "enabled": true
+    },
+    
+    {
+      "name": "Nuclear Fuel",
+      "enabled": true
+    },
+    
+    {
+      "name": "playtime",
+      "enabled": true
+    },
+    
+    {
+      "name": "pyindustry",
+      "enabled": true
+    },
+    
+    {
+      "name": "robot_attrition",
+      "enabled": true
+    },
+    
+    {
+      "name": "Rocket-Silo-Construction",
+      "enabled": true
+    },
+    
+    {
+      "name": "rp_artillery_turret_1_art",
+      "enabled": true
+    },
+    
+    {
+      "name": "safefill",
+      "enabled": true
+    },
+    
+    {
+      "name": "shield-projector",
+      "enabled": true
+    },
+    
+    {
+      "name": "simhelper",
+      "enabled": true
+    },
+    
+    {
+      "name": "simply-power-armor-mk3",
+      "enabled": true
+    },
+    
+    {
+      "name": "slp-underground-poles",
+      "enabled": true
+    },
+    
+    {
+      "name": "Speckled-advanced-solar",
+      "enabled": true
+    },
+    
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    },
+    
+    {
+      "name": "stdlib",
+      "enabled": true
+    },
+    
+    {
+      "name": "Super_Bus_Cheat",
+      "enabled": false
+    },
+    
+    {
+      "name": "Super_Science_Cheat",
+      "enabled": false
+    },
+    
+    {
+      "name": "Transport_Drones",
+      "enabled": true
+    },
+    
+    {
+      "name": "True-Nukes",
+      "enabled": true
+    },
+    
+    {
+      "name": "umr",
+      "enabled": true
+    },
+    
+    {
+      "name": "Warehousing",
+      "enabled": true
+    },
+    
+    {
+      "name": "Warheads",
+      "enabled": true
+    },
+    
+    {
+      "name": "XiNarusGodModules",
+      "enabled": true
+    }
+  ]
+}
